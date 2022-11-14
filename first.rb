@@ -1,1 +1,1 @@
-puts ('add new file')
+puts ('Add new file. Refactoring')
